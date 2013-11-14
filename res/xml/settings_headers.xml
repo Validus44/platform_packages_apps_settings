@@ -59,7 +59,15 @@
         android:icon="@drawable/empty_icon" />
 
     <!-- BEERGANG -->
-    <!--header android:title="@string/header_category_beergang" --/>
+    <header android:title="@string/header_category_beergang" />
+     
+    <!-- Beer bar -->
+    <header
+        android:id="@+id/beergang_settings"
+        android:icon="@drawable/ic_settings_beergang"
+        android:fragment="com.android.settings.beergang.BeerBar"
+        android:title="@string/beergang_beerbar_settings" >
+    </header>
 
     <!-- Themes -->
     <!--header

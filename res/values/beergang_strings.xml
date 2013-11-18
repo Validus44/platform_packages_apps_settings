@@ -98,10 +98,10 @@
     <string name="header_category_beergang">BEERGANG</string>
     
     <!-- BeerGang Settings -->
-    <string name="beerbar_settings">Tune</string>
+    <string name="beerbar_settings">BeerBar</string>
     <string name="status_bar_title">Status bar</string>
     <string name="status_bar_style_title">Extras</string>
-    <string name="volume_rocker_category_title">Volume related</string>
+    <string name="volume_rocker_category_title">Volumes</string>
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themes</string>
     

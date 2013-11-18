@@ -23,6 +23,11 @@
         android:key="status_bar"
         android:fragment="com.android.settings.beergang.StatusBarSettings"
         android:title="@string/status_bar_title" />
+        
+    <PreferenceScreen
+        android:key="navbar"
+        android:fragment="com.android.settings.beergang.NavbarSettings"
+        android:title="@string/navigation_settings_title" />
     
     <PreferenceScreen
         android:key="volume_rocker_settings"

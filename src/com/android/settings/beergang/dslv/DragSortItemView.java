@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.gummy.dslv;
+package com.android.settings.beergang.dslv;
 
 import android.content.Context;
 import android.view.Gravity;

@@ -32,7 +32,7 @@
     <string name="color_default">Default</string>
     
     <!-- About phone screen, BeerGang version -->
-    <string name="beergang_version_title">BeerGang version</string>
+    <string name="beergang_version_title">Validus44 Version</string>
     <string name="beergang_version_default">Unknown</string>
 
     <!-- Display settings screen, notification light settings -->
@@ -98,7 +98,7 @@
     <string name="header_category_beergang">BEERGANG</string>
     
     <!-- BeerGang Settings -->
-    <string name="beerbar_settings">BeerBar</string>
+    <string name="beerbar_settings">V Bar</string>
     <string name="status_bar_title">Status bar</string>
     <string name="navigation_settings_options_title">Navigation</string>
     <string name="navigation_settings_title">Navigation bar</string>
@@ -179,7 +179,7 @@
     <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
     
     <!-- TRDS Settings -->
-    <string name="trds_settings_title">Dark UI (TRDS)</string>
+    <string name="trds_settings_title">Dark Symmetry 2</string>
     
     <!-- StatusBar Battery Settings -->
     <string name="battery_icon_title">Battery</string>
